@@ -11,7 +11,7 @@ Material Color Schemes for Windows Terminal inspired by [carloscuesta/materialsh
   "schemes": [
     {
       "background": "#151515",
-      "black": "#FFFFFF",
+      "black": "#252525",
       "blue": "#42A5F5",
       "brightBlack": "#708284",
       "brightBlue": "#42A5F5",
