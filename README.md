@@ -1,7 +1,7 @@
 # Material Windows Terminal
 Material Color Schemes for Windows Terminal inspired by [carloscuesta/materialshell](https://github.com/carloscuesta/materialshell).
 
-![screenshot](https://raw.githubusercontent.com/yosukes-dev/material-windowsterminal/master/img/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/yosukes-dev/material-windows-terminal/master/img/screenshot.png)
 
 ### How To Use
 #### 1. Open Settings(profiles.json)
